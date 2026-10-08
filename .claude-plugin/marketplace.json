@@ -1,0 +1,13 @@
+{
+  "name": "unshadow",
+  "owner": {
+    "name": "Unshadow"
+  },
+  "plugins": [
+    {
+      "name": "unshadow-memory",
+      "source": "./claude-code-plugin",
+      "version": "0.1.0"
+    }
+  ]
+}

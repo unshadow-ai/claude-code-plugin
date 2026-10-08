@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "unshadow-memory",
+  "version": "0.1.0",
+  "description": "Project-authorized automatic memory with durable capture and advisory recall",
+  "author": {
+    "name": "Unshadow"
+  }
+}
